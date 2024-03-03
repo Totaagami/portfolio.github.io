@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portfolio Victor Gouin -- BTS SIO</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/jasny-bootstrap.min.css">
+    <!-- Main Style -->
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+    <!-- Responsive Style -->
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+    <!--Fonts-->
+    <link rel="stylesheet" media="screen" href="assets/fonts/font-awesome/font-awesome.min.css">
+    <!-- Extras -->
+    <link rel="stylesheet" type="text/css" href="assets/extras/animate.css">
+    <link rel="stylesheet" type="text/css" href="assets/extras/lightbox.css">
+    <link rel="stylesheet" type="text/css" href="assets/extras/owl/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="assets/extras/owl/owl.theme.css">
+    <link rel="stylesheet" type="text/css" href="assets/extras/owl/owl.transitions.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+                <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>                <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>              <![endif]-->
+  </head>
+  <body>
+    <!-- Header Section Start -->
+    <div id="header">
+      <div class="container">
+        <div class="col-md-12 top-header">
+          <div class="logo-menu">
+            <div class="logo pull-left wow fadeInDown animated" data-wow-delay=".2s">
+              <a href="index.html"><img src="assets/img/logo.png" alt="logo"></a>
+            </div>
+            <div class="pull-right wow fadeInDown animated" data-wow-delay=".2">
+              <div id="menu" data-toggle="offcanvas" data-target=".navmenu" data-canvas="body">
+                <span>menu</span> </div>
+            </div>
+          </div>
+          <div class="sidebar-nav">
+            <!-- navigation start -->
+            <div class="navmenu navmenu-default navmenu-fixed-right offcanvas" style=""
+              id="navigation"> <a href="index.html"><img class="logo" src="assets/img/logo.png"
+                  alt="logo"></a>
+              <ul class="nav navmenu-nav">
+                <li class="active"><a href="#header">Accueil</a></li>
+                <li><a href="#works">Présentation</a></li>
+                <li><a href="#skills">Compétences</a></li>
+                <li><a href="#blog">Parcours Professionnel</a></li>
+                <li><a href="#projetcfinal">Mes Projets</a></li>
+              </ul>
+            </div>
+            <!-- navigation End --> </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="banner text-center">
+              <h1 class="wow fadeInDown animated" data-wow-delay=".8s">Victor
+                Gouin</h1>
+              <h2 class="wow fadeInDown animated" data-wow-delay=".6s">BTS SIO
+                SISR <i class="fa fa-graduation-cap" aria-hidden="true"></i> <br>
+                ALTERNANCE : Réseaux Sécurité et Télécoms <i class="fa fa-briefcase"
+                  style="margin-left:10px;" aria-hidden="true"></i></h2>
+              <a href="#works" class="btn btn-border lg wow fadeInLeft animated"
+                data-wow-delay="1.0s">Ma présentation</a> <a href="#projetcfinal"
+                class="btn btn-common lg wow fadeInRight animated" data-wow-delay="1.0s">Mes
+                Projets</a>
+              <div class="scroll"> <a href="#blog"><i class="fa fa-angle-down wow fadeInUp animated"
+                    data-wow-delay="1.2s"></i></a> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Header Section End -->
+    <!-- Work Section Start -->
+    <section id="works">
+      <div class="container">
+        <div class="row">
+          <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s"><span><i
+                class="fa fa-user" aria-hidden="true"></i>&nbsp;&nbsp;Présentation</span></h1>
+          <div class="col-md-12 col-lg-12 grid-left wow fadeInLeft animated" data-wow-delay="1.2s">
+            <div class="commant info col-md-12 col-lg-8">
+              <h3>&nbsp;&nbsp;&nbsp;Je suis actuellement en BTS SIO SISR
+                (Services Informatiques aux Organisations option Solutions
+                d'Infrastructure, Systèmes et Réseaux) à l’École Supérieur des
+                Pays de La Loire (ESPL) à Angers je prépare mes examens pour le
+                BTS session 2024.<br>
+                <br>
+                Ce portfolio met à votre disposition mes compétences, mon
+                parcours professionnel, mes projets et les documents utiles aux
+                oraux.</h3>
+              <p><br>
+              </p>
+              <a href="res/MATOS/CV.pdf" class="btn btn-primary col-xs-12" style="margin-bottom: 10px;"
+                target="_BLANK"><i class="fa fa-download" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                Voir mon CV &nbsp;&nbsp;&nbsp;<i class="fa fa-tasks" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-offset-3 col-md-6 col-lg-offset-0 col-lg-4">
+              <div class=""> <br>
+                <br>
+                <br>
+              </div>
+              <center><img src="assets/img/sio.png" class="col-sm-12" alt="Logo BTS SIO"></center>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Work Section End  -->
+    <!--   Work Section Start 
+  <section id="works">    <div class="container">      <div class="row">        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s">Some of <br>My <br><span>Works</span></h1>        <div class="col-md-7 col-lg-7 grid-left wow fadeInLeft animated" data-wow-delay="1.2s">          <div class="large">            <img src="assets/img/work/img1.jpg" alt="">            <div class="overlay">              <a href="assets/img/work/img1.jpg" data-lightbox="img1"><i class="fa fa-search"></i></a>            </div>          </div>          <div class="grid-box">            <img src="assets/img/work/img2.jpg" alt="">            <div class="overlay">               <a href="assets/img/work/img2.jpg" data-lightbox="img2"><i class="fa fa-search"></i></a>            </div>          </div>          <div class="grid-box">            <img src="assets/img/work/img3.jpg" alt="">            <div class="overlay">               <a href="assets/img/work/img3.jpg" data-lightbox="img3"><i class="fa fa-search"></i></a>            </div>          </div>        </div>        <div class="col-md-5 grid-right wow fadeInRight animated" data-wow-delay="1.6s">          <div class="grid-box large">            <img src="assets/img/work/img4.jpg" alt="">            <div class="overlay">               <a href="assets/img/work/img4.jpg" data-lightbox="img4"><i class="fa fa-search"></i></a>            </div>          </div>          <div class="grid-box">            <img src="assets/img/work/img5.jpg" alt="">            <div class="overlay">               <a href="assets/img/work/img5.jpg" data-lightbox="img5"><i class="fa fa-search"></i></a>            </div>          </div>          <div class="browse-box">            <div class="more">              <a href="#"><i class="fa fa-arrow-circle-right"></i>BROWSE ALL</a>            </div>          </div>        </div>      </div>    </div>  </section>   Work Section End  -->
+    <!--   Testimonial Section Start 
+  <section id="testimonial">    <div class="container">      <div class="row">        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s">What My<br>Client <br><span>Says</span></h1>        <div id="testimonial-carousel" class="carousel slide wow fadeInUp animated" data-ride="carousel" data-wow-delay="1.2s">           Indicators           <ol class="carousel-indicators">            <li data-target="#testimonial-carousel" data-slide-to="0" class="active"></li>            <li data-target="#testimonial-carousel" data-slide-to="1"></li>            <li data-target="#testimonial-carousel" data-slide-to="2"></li>          </ol>          <div class="carousel-inner">            <div class="item active">              <blockquote>                <div class="commant">                  <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">                    <div class="claint">                      <img src="assets/img/testimonial/img1.jpg" alt="">                    </div>                    <span class="quote"><i class="fa fa-quote-left"></i></span>                  </div>                  <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">                    <div class="info">                      <p>TLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>                      <h4>Anamoul Rouf</h4>                      <h5>CEO, CloudBee</h5>                    </div>                  </div>                </div>              </blockquote>            </div>            <div class="item">              <blockquote>                <div class="commant">                  <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">                    <div class="claint">                      <img src="assets/img/testimonial/img2.jpg" alt="">                    </div>                    <span class="quote"><i class="fa fa-quote-left"></i></span>                  </div>                  <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">                    <div class="info">                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>                      <h4>Imran Khan</h4>                      <h5>Founder, WPBean</h5>                    </div>                  </div>                </div>              </blockquote>            </div>            <div class="item">              <blockquote>                <div class="commant">                  <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">                    <div class="claint">                      <img src="assets/img/testimonial/img3.jpg" alt="">                    </div>                    <span class="quote"><i class="fa fa-quote-left"></i></span>                  </div>                  <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">                    <div class="info">                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>                      <h4>Tanvir Ahmed</h4>                      <h5>Contributor, GrayGrids</h5>                    </div>                  </div>                </div>              </blockquote>            </div>          </div>        </div>      </div>    </div>  </section>-->
+    <!-- Testimonial Section End -->
+    <!-- Clients Section Start -->
+    <!--  <section id="clients">
+    <div class="container">      <div class="row">        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s">My Valuable <br><span>Clients</span></h1>        <div id="clients-carousel" class="owl-carousel owl-theme">          <div class="item wow fadeInLeft animated" data-wow-delay=".9s">            <a href="#"><img src="assets/img/clients/img1.png" alt=""></a>          </div>          <div class="item wow fadeInLeft animated" data-wow-delay=".9s">            <a href="#"><img src="assets/img/clients/img2.png" alt=""></a>          </div>          <div class="item wow fadeInRight animated" data-wow-delay=".9s">            <a href="#"><img src="assets/img/clients/img3.png" alt=""></a>          </div>          <div class="item wow fadeInRight animated" data-wow-delay=".9s">            <a href="#"><img src="assets/img/clients/img4.png" alt=""></a>          </div>          <div class="item wow fadeIn animated">            <a href="#"><img src="assets/img/clients/img5.png" alt=""></a>          </div>          <div class="item wow fadeIn animated">            <a href="#"><img src="assets/img/clients/img6.png" alt=""></a>          </div>          <div class="item wow fadeIn animated">            <a href="#"><img src="assets/img/clients/img7.png" alt=""></a>          </div>        </div>      </div>    </div>  </section>-->
+    <!-- Clients Section End -->
+    <!-- Skills Section Start -->
+    <section id="skills">
+      <div class="container">
+        <div class="row">
+          <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".4s"><span><i
+                class="fa fa-wrench" aria-hidden="true"></i> Mes Compétences</span></h1>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="0.8s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info" onload=" $('.two').circleProgress({value: 0.85,});"
+                  style="top: -26px; left: 9px;"> <img src="assets/img/skills/1.png"
+                    alt=""> </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="0.8s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info" style="top: 33px; left: 7px;"> <img src="assets/img/skills/2.png"
+                    alt=""> </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="0.8s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info" style="top: -19px; left: 0px; width: 219px; height: 162px;">
+                  <img src="assets/img/skills/3.png" alt=""> </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="0.8s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info"> <img src="assets/img/skills/4.png" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="1.0s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info" style="top: -8px; left: 9px;"> <img src="assets/img/skills/5.png"
+                    alt=""> </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="1.0s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info" style="top: -26px; left: 9px;"> <img src="assets/img/skills/6.png"
+                    alt=""> </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="1.0s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info" style="top: -9px; left: 10px;"> <img src="assets/img/skills/7.png"
+                    alt=""> </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="1.0s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info"> <img src="assets/img/skills/8.png" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="1.2s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info" style="top: -11px; left: 14px; width: 182px; height: 180px;">
+                  <img src="assets/img/skills/9.png" alt=""> </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="1.2s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info" style="top: 18px; left: 8px;"> <img src="assets/img/skills/10.png"
+                    alt=""> </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="1.2s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info" style="top: 33px; left: -7px; width: 231px; height: 209px;">
+                  <img src="assets/img/skills/11.png" alt=""> </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 wow fadeInUp animated" data-wow-delay="1.2s">
+            <div class="fact-block">
+              <div class="">
+                <div class="count-info" style="top: 2px; left: 22px; width: 177px; height: 174px;">
+                  <img src="assets/img/skills/12.png" alt=""> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Skills Section End --> <br>
+    <br>
+    <br>
+    <!-- Blog Section Start -->
+    <section id="blog">
+      <div class="container">
+        <!--      <div class="row">-->
+        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s"><span><i
+              class="fa fa-briefcase" aria-hidden="true"></i> Parcours
+            Professionnel</span></h1>
+        <h2 class="wow fadeInLeft animated" data-wow-delay=".6s"><span><b>Alternance
+              :</b> </span></h2>
+        <!--</div>-->
+        <div class="row" style="padding: 10px 0 10px;">
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+            <div class="blog-large wow fadeInLeft animated" data-wow-delay=".2s">
+              <img src="assets/img/blog/img2.png" alt=""> </div>
+          </div>
+        </div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 wow fadeInRight animated"
+          data-wow-delay=".6s"> <br>
+          <h4> <b>J’ai effectué mon alternance au sein du service de DLSI
+              (Direction Logistique et Systèmes d'Informations) du Conseil
+              Départemental de Maine-et-Loire.</b></h4>
+          <h4>Le Département de Maine-et-Loire est une collectivité
+            territoriale. Sa mission principale est les actions sociales.</h4>
+          <h4>J’ai pu notamment travailler sur les projets suivants :</h4>
+          <ul style="margin-left:45px;">
+            <li style="list-style:square;padding-left:15px;">
+              <h4>L'installation d'un serveur Apache Guacamole</h4>
+            </li>
+            <li style="list-style:square;padding-left:15px;">
+              <h4>Etudes WIFI dans les collèges et les sites du Département </h4>
+            </li>
+            <li style="list-style:square;padding-left:15px;">
+              <h4>La Gestion de tickets sur l'utilitaire GLPI</h4>
+              <br>
+              <br>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s"><span><i
+            class="fa fa-briefcase" aria-hidden="true"></i> Documentation
+          technique de l'infrastructure de base<br>
+        </span>
+        <div class="col-sm-5"><span class="projectsubtitle"></span><br>
+          <br>
+        </div>
+        <section id="clients2">
+          <div id="clients-carousel2" class="owl-carousel owl-theme">
+            <div class="item wow fadeInLeft animated" data-wow-delay=".9s"> <a
+                href="#"><img src="assets/img/clients/img7.png" alt=""></a> </div>
+            <div class="item wow fadeInLeft animated" data-wow-delay=".9s"> <a
+                href="#"><img src="assets/img/clients/img8.png" alt=""></a> </div>
+            <div class="item wow fadeInLeft animated" data-wow-delay=".9s"> <a
+                href="#"><img src="assets/img/clients/img9.png" alt=""></a> </div>
+            <div class="item wow fadeInRight animated" data-wow-delay=".9s"> <a
+                href="#"><img src="assets/img/clients/img10.png" alt=""></a> </div>
+            <div class="item wow fadeInRight animated" data-wow-delay=".9s"> <a
+                href="#"><img src="assets/img/clients/img11.png" alt=""></a> </div>
+          </div>
+        </section>
+      </h1>
+    </section>
+    <!-- Blog Section Start -->
+    <!--   Blog Section Start 
+  <section id="blog">    <div class="container">      <div class="row">        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s">My<br>Homey<br><span>Blog</span></h1>        <div class="col-lg-4 col-md-4 col-sm-8 col-xs-12">          <div class="blog-large wow fadeInLeft animated"  data-wow-delay="1.2s">            <img src="assets/img/blog/img1.jpg" alt="">            <div class="large">              <a class="title" href="#">This is Photoshop's vers ion  of Lorem Ipsum. Pro in gravida </a>              <p>Nibh vel velit auc tor aliq uet. Aenean sollicitu din, lorem quis biben...</p>            </div>          </div>        </div>        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 wow fadeInRight animated" data-wow-delay="1.6s">          <div class="blog-item">            <img src="assets/img/blog/img2.jpg" alt="">            <div class="content">              <a class="title" href="#">This is Photoshop's vers ion  of Lorem Ipsum. Pro in gravida </a>              <p>Nibh vel velit auc tor aliq uet. Aenean sollicitu din, lorem quis biben...</p>            </div>          </div>          <div class="blog-item">            <img src="assets/img/blog/img3.jpg" alt="">            <div class="content">              <a class="title" href="#">This is Photoshop's vers ion  of Lorem Ipsum. Pro in gravida </a>              <p>Nibh vel velit auc tor aliq uet. Aenean sollicitu din, lorem quis biben...</p>            </div>          </div>        </div>        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 wow fadeInRight animated" data-wow-delay="1.8s">          <div class="blog-item">            <img src="assets/img/blog/img3.jpg" alt="">            <div class="content">              <a class="title" href="#">This is Photoshop's vers ion  of Lorem Ipsum. Pro in gravida </a>              <p>Nibh vel velit auc tor aliq uet. Aenean sollicitu din, lorem quis biben...</p>            </div>          </div>          <div class="blog-item">            <img src="assets/img/blog/img2.jpg" alt="">            <div class="content">              <a class="title" href="#">This is Photoshop's vers ion  of Lorem Ipsum. Pro in gravida </a>              <p>Nibh vel velit auc tor aliq uet. Aenean sollicitu din, lorem quis biben...</p>            </div>          </div>        </div>      </div>    </div>  </section>   Blog Section Start -->
+    <!-- Feedback Section Start -->
+    <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s"><a href="res/MATOS/infra.pdf"
+        class="btn btn-primary col-xs-12" target="_BLANK">&nbsp;&nbsp;&nbsp;
+        Télécharger la documentation technique&nbsp; </a></h1>
+    <!--  <section id="feedback">
+    <div class="container">      <div class="row">        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s"><span>Hire</span><br>or Contact <br> Me</h1>        <div class="col-sm-6 col-md-6 wow fadeInLeft animated" data-wow-delay="1.4s">          <form action="" name="contact">            <div class="input-group">              <span class="input-group-addon"><i class="fa fa-user"></i></span>              <input type="text" name="name" class="form-control" placeholder="Your name">            </div>            <div class="input-group">              <span class="input-group-addon"><i class="fa fa-envelope-o"></i></span>              <input type="email" name="email" class="form-control" placeholder="Email">            </div>            <div class="input-group">              <span class="input-group-addon"><i class="fa fa-fire"></i></span>              <input type="text" name="subject" class="form-control" placeholder="Subject">            </div>            <div class="input-group">              <span class="input-group-addon"><i class="fa fa-comments"></i></span>              <textarea name="message" class="form-control large" placeholder="Massage"></textarea>            </div>            <button type="submit" class="btn btn-green"><i class="fa fa-envelope-o"></i>Send</button>          </form>        </div>        <div class="col-sm-4 col-md-4 col-md-offset-2 wow fadeInRight animated" data-wow-delay="1.4s">          <div class="address">            <h2>Contact Info</h2>            <ul class="contact-info">              <li><i class="fa fa-mobile"></i> +88 019788XYZ</li>              <li><i class="fa fa-skype"></i> musa.xyz</li>              <li><i class="fa fa-envelope-o"></i> musaxyz@gmail.com</li>            </ul>                    <h2>Follow Me</h2>            <ul class="social-icon">              <li><a href="#"><i class="fa fa-facebook"></i></a></li>              <li><a href="#"><i class="fa fa-twitter"></i></a></li>              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>              <li><a href="#"><i class="fa fa-google-plus"></i></a></li>              <li><a href="#"><i class="fa fa-youtube"></i></a></li>            </ul>          </div>        </div>      </div>    </div>  </section>-->
+    <br>
+    <br>
+    <br>
+    <br>
+    <section id="projetcfinal">
+      <section id="skills" style="text-align:left">
+        <div class="container">
+          <div class="row">
+            <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".4s"><span><i
+                  class="fa fa-tasks" aria-hidden="true"></i> Mes projets
+                présentés (E4)</span></h1>
+            <div class="projectspres"> <br>
+              <center><span class="projecttitle">Projet Apache Guacamole</span></center>
+              <div class="row" style="padding-top:40px;"> <img src="assets/img/RESPONSIVE.jpg"
+                  class="col-sm-7" alt="">
+                <div class="col-sm-5"> <br>
+                  <br>
+                  <span class="projectsubtitle">Compétences: <br>
+                  </span></div>
+                <div class="col-sm-5"><span class="projectsubtitle"></span><br>
+                  <a href="res/MATOS/compguac.pdf" class="btn btn-primary col-xs-12"
+                    target="_BLANK"><i class="fa fa-download" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                    Télécharger la description des compétences
+                    &nbsp;&nbsp;&nbsp;<i class="fa fa-database" aria-hidden="true"></i></a>
+                </div>
+                <div class="col-sm-5"><span class="projectsubtitle"><br>
+                  </span></div>
+                <div class="col-sm-5"><span class="projectsubtitle">Caractéristiques
+                    : </span><br>
+                  <ul style="margin-left:45px;color:#454545">
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Accès à Distance Universel</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Interface Web</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Authentification et Sécurité</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Prise en Charge de Multi-Utilisateurs</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Extensibilité</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Gestion SSH/VNC/RDP</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Enregistrement des Sessions</h4>
+                    </li>
+                  </ul>
+                  <br>
+                  <a href="res/MATOS/doctechguacamole.pdf" class="btn btn-primary col-xs-12"
+                    style="margin-bottom: 10px;" target="_BLANK"><i class="fa fa-download"
+                      aria-hidden="true"></i>&nbsp;&nbsp;&nbsp; Télécharger la
+                    documentation technique &nbsp;&nbsp;&nbsp;<i class="fa fa-tasks"
+                      aria-hidden="true"></i></a> <a href="res/MATOS/docinstguacamole.pdf"
+                    class="btn btn-primary col-xs-12" style="margin-bottom: 10px;"
+                    target="_BLANK"><i class="fa fa-download" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                    Télécharger la documentation d'installation
+                    &nbsp;&nbsp;&nbsp;<i class="fa fa-wrench" aria-hidden="true"></i></a>
+                </div>
+              </div>
+            </div>
+            <br>
+            <br>
+            <div class="projectspres"> <br>
+              <center><span class="projecttitle">Projet FOG (Free and
+                  Open-source Ghost)&nbsp; </span> </center>
+              <div class="row" style="padding-top:40px;"> <img src="assets/img/MATOSPUB.png"
+                  class="col-sm-7" alt="">
+                <div class="col-sm-5"> <br>
+                  <span class="projectsubtitle">Compétences: <br>
+                  </span></div>
+                <div class="col-sm-5"><span class="projectsubtitle"></span><br>
+                  <a href="res/MATOS/compfog.pdf" class="btn btn-primary col-xs-12"
+                    target="_BLANK"><i class="fa fa-download" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                    Télécharger la description des compétences
+                    &nbsp;&nbsp;&nbsp;<i class="fa fa-database" aria-hidden="true"></i></a>
+                </div>
+                <div class="col-sm-5"><br>
+                </div>
+                <div class="col-sm-5"><span class="projectsubtitle"><br>
+                  </span></div>
+                <div class="col-sm-5"><span class="projectsubtitle">Caractéristiques
+                    : </span><br>
+                  <ul style="margin-left:45px;color:#454545">
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Clonage et Déploiement d'Images</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Gestion Centralisée</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Système de Multicast</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Intégration avec Active Directory</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Compatibilité avec Différents Systèmes d'Exploitation</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Environnement de Préboot (PXE)</h4>
+                    </li>
+                  </ul>
+                  <br>
+                  <a href="res/MATOS/ProjetFog.pdf" class="btn btn-primary col-xs-12"
+                    style="margin-bottom: 10px;" target="_BLANK"><i class="fa fa-download"
+                      aria-hidden="true"></i>&nbsp;&nbsp;&nbsp; Télécharger la
+                    documentation technique &nbsp;&nbsp;&nbsp;<i class="fa fa-tasks"
+                      aria-hidden="true"></i></a> <a href="res/MATOS/CahierFOG.pdf"
+                    class="btn btn-primary col-xs-12" style="margin-bottom: 10px;"
+                    target="_BLANK"><i class="fa fa-download" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                    Télécharger la documentation d'installation
+                    &nbsp;&nbsp;&nbsp;<i class="fa fa-wrench" aria-hidden="true"></i></a>
+                </div>
+              </div>
+            </div>
+            <br>
+            <br>
+            <div class="projectspres"> <br>
+              <center><span class="projecttitle">Projet Asterisk&nbsp;&nbsp; </span>
+              </center>
+              <div class="row" style="padding-top:40px;"> <img src="assets/img/asterisk.png"
+                  class="col-sm-7" alt="">
+                <div class="col-sm-5"> <span class="projectsubtitle">Compétences:
+                    <br></span></div>
+                <div class="col-sm-5"><span class="projectsubtitle"><br>
+                  </span></div>
+                <div class="col-sm-5"><span class="projectsubtitle"><a href="res/MATOS/compasterisk.pdf"
+                      class="btn btn-primary col-xs-12" target="_BLANK"><i class="fa fa-download"
+                        aria-hidden="true"></i>&nbsp;&nbsp;&nbsp; Télécharger la
+                      description des compétences &nbsp;&nbsp;&nbsp;<i class="fa fa-database"
+                        aria-hidden="true"></i></a> </span></div>
+                <div class="col-sm-5"><span class="projectsubtitle"><br>
+                  </span></div>
+                <div class="col-sm-5"><span class="projectsubtitle">Caractéristiques
+                    : </span><br>
+                  <ul style="margin-left:45px;color:#454545">
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Téléphonie IP (VoIP)</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Flexibilité et Personnalisation</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Interopérabilité</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Fonctions Avancées de Téléphonie</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Systèmes Modulaires</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Communauté Active</h4>
+                    </li>
+                  </ul>
+                  <br>
+                  <a href="res/MATOS/doctechasterisk.pdf" class="btn btn-primary col-xs-12"
+                    style="margin-bottom: 10px;" target="_BLANK"><i class="fa fa-download"
+                      aria-hidden="true"></i>&nbsp;&nbsp;&nbsp; Télécharger la
+                    documentation technique &nbsp;&nbsp;&nbsp;<i class="fa fa-tasks"
+                      aria-hidden="true"></i></a> <a href="res/MATOS/docinstasterisk.pdf"
+                    class="btn btn-primary col-xs-12" style="margin-bottom: 10px;"
+                    target="_BLANK"><i class="fa fa-download" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                    Télécharger la documentation d'installation
+                    &nbsp;&nbsp;&nbsp;<i class="fa fa-wrench" aria-hidden="true"></i></a>
+                </div>
+              </div>
+            </div>
+            <br>
+            <br>
+            <div class="projectspres"> <br>
+              <center><span class="projecttitle">Projet GLPI (Gestionnaire Libre
+                  de Parc Informatique)&nbsp; </span> </center>
+              <div class="row" style="padding-top:40px;"> <img src="assets/img/GLPI.png"
+                  class="col-sm-7" alt="">
+                <div class="col-sm-5"> <br>
+                  <span class="projectsubtitle">Compétences: <br>
+                  </span></div>
+                <div class="col-sm-5"><span class="projectsubtitle"></span><br>
+                  <a href="res/MATOS/compglpi.pdf" class="btn btn-primary col-xs-12"
+                    target="_BLANK"><i class="fa fa-download" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                    Télécharger la description des compétences
+                    &nbsp;&nbsp;&nbsp;<i class="fa fa-database" aria-hidden="true"></i></a>
+                </div>
+                <div class="col-sm-5"><span class="projectsubtitle"><br>
+                  </span></div>
+                <div class="col-sm-5"><span class="projectsubtitle">Caractéristiques
+                    : </span><span class="projectsubtitle"></span><br>
+                  <ul style="margin-left:45px;color:#454545">
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Gestion des Inventaires</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Gestion des Incidents et Demandes</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Gestion des Utilisateurs et des Groupes</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Gestion des Contrats et des Fournisseurs</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Gestion des Licenses</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Tableau de Bord et Rapports</h4>
+                    </li>
+                  </ul>
+                  <br>
+                  <a href="res/MATOS/doctechglpi.pdf" class="btn btn-primary col-xs-12"
+                    style="margin-bottom: 10px;" target="_BLANK"><i class="fa fa-download"
+                      aria-hidden="true"></i>&nbsp;&nbsp;&nbsp; Télécharger la
+                    documentation technique &nbsp;&nbsp;&nbsp;<i class="fa fa-tasks"
+                      aria-hidden="true"></i></a> <a href="res/MATOS/docinstglpi.pdf"
+                    class="btn btn-primary col-xs-12" style="margin-bottom: 10px;"
+                    target="_BLANK"><i class="fa fa-download" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                    Télécharger la documentation d'installation
+                    &nbsp;&nbsp;&nbsp;<i class="fa fa-wrench" aria-hidden="true"></i></a>
+                </div>
+              </div>
+            </div>
+            <br>
+            <br>
+            <div class="projectspres"> <br>
+              <center><span class="projecttitle">Projet OpenVPN </span> </center>
+              <div class="row" style="padding-top:40px;"> <img src="assets/img/OpenVPN.png"
+                  class="col-sm-7" alt="" style="width: 333px; height: 294px; margin-left: 80px;">
+                <div class="col-sm-5" style="margin-left: 204px;"> <br>
+                  &nbsp;<span class="projectsubtitle">Compétences:</span></div>
+                <div class="col-sm-5" style="margin-left: 204px;"><span class="projectsubtitle">
+                  </span><br>
+                  <a href="res/MATOS/compopenvpn.pdf" class="btn btn-primary col-xs-12"
+                    target="_BLANK"><i class="fa fa-download" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                    Télécharger la description des compétences
+                    &nbsp;&nbsp;&nbsp;<i class="fa fa-database" aria-hidden="true"></i></a>
+                </div>
+                <div class="col-sm-5" style="margin-left: 205px;"><span class="projectsubtitle"><br>
+                  </span></div>
+                <div class="col-sm-5" style="margin-left: 205px;"><span class="projectsubtitle">Caractéristiques
+                    : </span><br>
+                  <ul style="margin-left:45px;color:#454545">
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Sécurtié Robuste</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Compatibiliré Multiplateforme</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Support de Protocoles (UDP TCP)</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Accès à Distance et Interconnexion de Sites</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Configuration Relativement Simple</h4>
+                    </li>
+                    <li style="list-style:square;padding-left:15px;">
+                      <h4>Authentification Multi-facteurs</h4>
+                    </li>
+                  </ul>
+                  <br>
+                  <a href="res/MATOS/ProjetFog.pdf" class="btn btn-primary col-xs-12"
+                    style="margin-bottom: 10px;" target="_BLANK"><i class="fa fa-download"
+                      aria-hidden="true"></i>&nbsp;&nbsp;&nbsp; Télécharger la
+                    documentation technique &nbsp;&nbsp;&nbsp;<i class="fa fa-tasks"
+                      aria-hidden="true"></i></a> <a href="res/MATOS/CahierFOG.pdf"
+                    class="btn btn-primary col-xs-12" style="margin-bottom: 10px;"
+                    target="_BLANK"><i class="fa fa-download" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                    Télécharger la documentation d'installation
+                    &nbsp;&nbsp;&nbsp;<i class="fa fa-wrench" aria-hidden="true"></i></a>
+                </div>
+              </div>
+            </div>
+            <br>
+            <br>
+          </div>
+        </div>
+      </section>
+    </section>
+    <!-- Feedback Section End -->
+    <!-- Footer section Start -->
+    <footer id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+            <div class="text-center wow fadeInUp animated" data-wow-delay=".8s">
+              <p>Portfolio Victor GOUIN</p>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+            <div class="scroll-top text-center wow fadeInUp animated" data-wow-delay=".6s">
+              <a href="#header"><i class="fa fa-chevron-circle-up fa-2x"></i></a>
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+            <p class="text-center wow fadeInUp animated" data-wow-delay=".8s">BTS
+              SIO SISR&nbsp;&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;&nbsp;2022 -
+              2024</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- Footer section End -->
+    <!-- jQuery Load -->
+    <script src="assets/js/jquery-min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- WOW JS plugin for animation -->
+    <script src="assets/js/wow.js"></script>
+    <!-- All JS plugin Triggers -->
+    <script src="assets/js/main.js"></script>
+    <!-- Smooth scroll -->
+    <script src="assets/js/smooth-scroll.js"></script>
+    <!--  -->
+    <script src="assets/js/jasny-bootstrap.min.js"></script>
+    <!-- Counterup -->
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <!-- waypoints -->
+    <script src="assets/js/waypoints.min.js"></script>
+    <!-- circle progress -->
+    <script src="assets/js/circle-progress.js"></script>
+    <!-- owl carousel -->
+    <script src="assets/js/owl.carousel.js"></script>
+    <!-- lightbox -->
+    <script src="assets/js/lightbox.min.js"></script>
+  </body>
+</html>
